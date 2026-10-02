@@ -9,9 +9,9 @@ This file is the fixed content reference for the Mahmoud AL Dali CV. It preserve
 - Name: Mahmoud AL Dali
 - Date of Birth: 18/01/1988
 - Marital Status: Married
-- Address: Ajman, Al Jurf
-- Mobile: +971 52 653 8366
-- Email: aldalimanolo730@gmail.com
+- Address: Tartous, Syria
+- Mobile: +963 933 869 476
+- Email: m.aldali88@proton.me
 
 ## Professional Profile
 
